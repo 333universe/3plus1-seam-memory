@@ -4,7 +4,7 @@
 
 **Authors:** Rob Bur (`333universe`) & AI Research Collaborator  
 **Version:** 2.0.0  
-**Repository:** [https://github.com](https://github.com)  
+**Repository:** [https://github.com](https://github.com/333universe/3plus1-seam-memory/blob/main/WHITEPAPER.md)  
 **License:** MIT  
 
 ---
