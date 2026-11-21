@@ -1,3 +1,4 @@
+[![3+1 Seam Verification Suite](https://github.com)](https://github.com)
 
 # 3+1 Holographic Seam Theory & Episodic Context Memory (`v2.0`)
 
