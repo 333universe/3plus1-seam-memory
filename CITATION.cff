@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or the 3+1 Holographic Seam Theory in your research, please cite it as below."
+title: "3+1 Holographic Seam Theory & Episodic Context Memory"
+version: 2.0.0
+date-released: 2026-11-21
+url: "https://github.com"
+repository-code: "https://github.com"
+license: MIT
+authors:
+  - alias: "333universe"
+    name: "Rob Bur"
+keywords:
+  - holographic-architecture
+  - temporal-segmentation
+  - episodic-memory
+  - context-window-compression
+  - cognitive-telemetry
+  - event-boundary-detection
+  - autonomous-agents
+abstract: >-
+  A zero-tuning, conservation-governed temporal segmentation and episodic memory
+  compression engine based on the 3+1 Holographic Seam Architecture
+  (0.3333 Efficiency + 0.3333 Balance + 0.3333 Change + 0.0001 Seam = 1.0000).
