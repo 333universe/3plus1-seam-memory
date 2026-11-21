@@ -88,7 +88,7 @@ def run_biometric_benchmark() -> None:
     for idx, win in enumerate(windows, 1):
         metrics = extract_ecg_triad_metrics(win)
         report = analyzer.process_llm_step(
-            tps=metrics["power"] * 50.0,
+            tokens_per_sec=metrics["power"] * 50.0,
             prob=metrics["coherence"],
             entropy=metrics["entropy"],
         )
