@@ -97,7 +97,7 @@ def run_live_agent_demo() -> None:
         t0 = time.perf_counter()
         if use_live_api and client is not None:
             response = client.models.generate_content(
-                model="gemini-2.5-flash",
+                model="gemini-3.8-flash",
                 contents=full_prompt,
             )
             reply_text = response.text.strip().replace("\n", " ")[:180]
